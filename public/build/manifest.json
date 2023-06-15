@@ -13,14 +13,14 @@
     "src": "bootstrap.bundle.css"
   },
   "resources/js/auth.css": {
-    "file": "assets/auth-7ba0fa54.css",
+    "file": "assets/auth-d35feec1.css",
     "src": "resources/js/auth.css"
   },
   "resources/js/auth.js": {
     "css": [
-      "assets/auth-7ba0fa54.css"
+      "assets/auth-d35feec1.css"
     ],
-    "file": "assets/auth-068c950b.js",
+    "file": "assets/auth-547801d6.js",
     "imports": [
       "_app-41e7cd70.js",
       "_bootstrap.bundle.min-aa36eb42.js"
@@ -29,7 +29,7 @@
     "src": "resources/js/auth.js"
   },
   "resources/js/backend.css": {
-    "file": "assets/backend-85c6bea5.css",
+    "file": "assets/backend-85ad5dc3.css",
     "src": "resources/js/backend.css"
   },
   "resources/js/backend.js": {
@@ -40,17 +40,17 @@
       "assets/boxicons-4b87cbc7.woff2",
       "assets/boxicons-d5d511cf.woff",
       "assets/boxicons-47509a2d.ttf",
-      "assets/boxicons-0b7f8ae7.svg",
+      "assets/boxicons-3fe502d8.svg",
       "assets/remixicon-64bb3a0f.eot",
       "assets/remixicon-e61f0d10.woff2",
       "assets/remixicon-c2dacfbc.woff",
       "assets/remixicon-0ac8bc3c.ttf",
-      "assets/remixicon-aab59b7b.svg"
+      "assets/remixicon-a10268fe.svg"
     ],
     "css": [
-      "assets/backend-85c6bea5.css"
+      "assets/backend-85ad5dc3.css"
     ],
-    "file": "assets/backend-df19bb97.js",
+    "file": "assets/backend-57b6c4e8.js",
     "imports": [
       "_bootstrap.bundle.min-aa36eb42.js"
     ],
@@ -85,7 +85,7 @@
     "src": "resources/lib/boxicons/fonts/boxicons.eot"
   },
   "resources/lib/boxicons/fonts/boxicons.svg": {
-    "file": "assets/boxicons-0b7f8ae7.svg",
+    "file": "assets/boxicons-3fe502d8.svg",
     "src": "resources/lib/boxicons/fonts/boxicons.svg"
   },
   "resources/lib/boxicons/fonts/boxicons.ttf": {
@@ -105,7 +105,7 @@
     "src": "resources/lib/remixicon/remixicon.eot"
   },
   "resources/lib/remixicon/remixicon.svg": {
-    "file": "assets/remixicon-aab59b7b.svg",
+    "file": "assets/remixicon-a10268fe.svg",
     "src": "resources/lib/remixicon/remixicon.svg"
   },
   "resources/lib/remixicon/remixicon.ttf": {
